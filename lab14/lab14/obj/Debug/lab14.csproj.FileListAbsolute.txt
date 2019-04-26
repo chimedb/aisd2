@@ -1,0 +1,9 @@
+C:\Users\Chimee\source\repos\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\Chimee\source\repos\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\Chimee\source\repos\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\Chimee\source\repos\lab14\lab14\bin\Debug\TestSet.dll
+C:\Users\Chimee\source\repos\lab14\lab14\obj\Debug\lab14.csprojResolveAssemblyReference.cache
+C:\Users\Chimee\source\repos\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\Users\Chimee\source\repos\lab14\lab14\obj\Debug\lab14.csproj.CopyComplete
+C:\Users\Chimee\source\repos\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\Chimee\source\repos\lab14\lab14\obj\Debug\lab14.pdb

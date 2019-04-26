@@ -1,0 +1,10 @@
+C:\Users\Chimee\source\repos\lab13\lab13\bin\Debug\lab13.exe.config
+C:\Users\Chimee\source\repos\lab13\lab13\bin\Debug\lab13.exe
+C:\Users\Chimee\source\repos\lab13\lab13\bin\Debug\lab13.pdb
+C:\Users\Chimee\source\repos\lab13\lab13\bin\Debug\Graph.dll
+C:\Users\Chimee\source\repos\lab13\lab13\bin\Debug\TestSet.dll
+C:\Users\Chimee\source\repos\lab13\lab13\obj\Debug\lab13.csprojResolveAssemblyReference.cache
+C:\Users\Chimee\source\repos\lab13\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\Users\Chimee\source\repos\lab13\lab13\obj\Debug\lab13.csproj.CopyComplete
+C:\Users\Chimee\source\repos\lab13\lab13\obj\Debug\lab13.exe
+C:\Users\Chimee\source\repos\lab13\lab13\obj\Debug\lab13.pdb
